@@ -245,6 +245,10 @@
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="My Snaps apps\BubbleSortDemo.cs" />
+    <Compile Include="My Snaps apps\CompleteProgram.cs" />
+    <Compile Include="My Snaps apps\ReadAndDisplay.cs" />
+    <Compile Include="My Snaps apps\ForLoopStorage.cs" />
     <Compile Include="My Snaps apps\TapScreenToStop.cs" />
     <Compile Include="My Snaps apps\TalkingTimesTables.cs" />
     <Compile Include="My Snaps apps\TryStuff.cs" />
