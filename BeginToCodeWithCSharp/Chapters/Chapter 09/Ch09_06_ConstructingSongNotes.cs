@@ -18,5 +18,6 @@ class Ch09_06_ConstructingSongNotes
     public void StartProgram()
     {
         SongNote note = new SongNote(inPitch: 0, inDuration: 0.4);
+        
     }
 }
