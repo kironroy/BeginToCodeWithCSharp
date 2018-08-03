@@ -248,6 +248,8 @@
     <Compile Include="My Snaps apps\BubbleSortDemo.cs" />
     <Compile Include="My Snaps apps\Alert.cs" />
     <Compile Include="My Snaps apps\AlertLevel.cs" />
+    <Compile Include="My Snaps apps\PizzaPickerTwo.cs" />
+    <Compile Include="My Snaps apps\JsonDemo.cs" />
     <Compile Include="My Snaps apps\DrawEnum.cs" />
     <Compile Include="My Snaps apps\SimpleDraw.cs" />
     <Compile Include="My Snaps apps\PresetMusic.cs" />
