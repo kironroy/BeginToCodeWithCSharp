@@ -38,5 +38,6 @@ class Ch11_02_PrivateMinutesSpent
         int robsMinutes = moresecure.GetMinutesSpent();
         robsMinutes = robsMinutes + 10;
         moresecure.SetMinutesSpent(robsMinutes);
+
     }
 }
